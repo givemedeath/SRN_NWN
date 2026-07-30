@@ -45,3 +45,4 @@ compatibility. No affiliation, endorsement, or license is implied.
 
 Original software in this repository is licensed under the
 [PolyForm Noncommercial License 1.0.0](LICENSE).
+Copyright and attribution notices are in [NOTICE](NOTICE).
