@@ -3,12 +3,24 @@
 ShadowRunnerNights is a source-available, non-commercial tactical RPG
 module project for Neverwinter Nights: Enhanced Edition.
 
-It explores lethal, positional urban-fantasy combat designed for both
+It explores cyberpunk-fantasy themed RP and lethal, tactical combat designed for both
 facilitator-led events and small-party play.
 
-> [!IMPORTANT]
 > **Current state: Design and engine experimentation.**
 > This repository does not yet contain a playable module.
+
+## Roadmap
+
+| Phase | Status | Outcome |
+|---|---|---|
+| P-0A | Complete | Resolve no-code decisions and define bounded, measurable experiments |
+| P-0B | Ongoing | Prove reproducible bootstrap, native compatibility, resolver integration, cadence, cover, explosives, and the NUI window foundation |
+| P-1 | | Implement Human Mundane reference schema |
+| P-2 | | Tactical-combat implementation |
+| P-3 | | Implement the persistent run/recovery loop and GM operations |
+| P-4 | | Expand progression and harden for a rights-cleared closed alpha |
+| P-5 | | Imlement Races, Magic, Cyberspace, Drones, Astral |
+| P-6+ | | Alpha Testing |
 
 ## Project direction
 
