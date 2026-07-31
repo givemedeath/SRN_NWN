@@ -18,9 +18,11 @@ facilitator-led events and small-party play.
 | P-1 | | Implement Human Mundane reference schema |
 | P-2 | | Tactical-combat implementation |
 | P-3 | | Implement the persistent run/recovery loop and GM operations |
-| P-4 | | Expand progression and harden for a rights-cleared closed alpha |
-| P-5 | | Imlement Races, Magic, Cyberspace, Drones, Astral |
-| P-6+ | | Alpha Testing |
+| P-4 | | Expand progression and harden for a closed alpha testing |
+| P-5 | | Imlement Races, Magic, Matrix, Drones |
+| P-6 | | Semi-open Alpha Testing |
+| P-7 | | TBD: Vehicles, Astral Projection and Plane, Others |
+| P-8 | | Open BETA | 
 
 ## Rights and provenance
 
