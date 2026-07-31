@@ -22,23 +22,6 @@ facilitator-led events and small-party play.
 | P-5 | | Imlement Races, Magic, Cyberspace, Drones, Astral |
 | P-6+ | | Alpha Testing |
 
-## Project direction
-
-- **Tactical combat first.** Ranged combat, close combat, and explosives are
-  distinct and deliberately balanced play modes.
-- **Position and movement matter.** Cover, mobility, and readable counterplay
-  offset high lethality.
-- **Independently authored rules.** All mechanics, terminology, text, test
-  cases, and implementation are written for this project.
-- **Deterministic resolution.** Rules logic remains independent of engine
-  objects, persistence, clocks, configuration, and production randomness.
-- **Recoverable ordinary defeat.** Permanent character death is limited to
-  explicitly prepared facilitator-run events with documented consent and review.
-- **Evidence before breadth.** Unproven assumptions advance only through
-  timeboxed go/adapt/stop experiments.
-- **Reusable custom UI.** Typed interface components and prototype evidence
-  precede production custom windows.
-
 ## Rights and provenance
 
 This repository contains original project materials only. It does not include
