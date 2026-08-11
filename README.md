@@ -24,7 +24,7 @@ Status legend: **Complete** · **Ongoing** · blank = planned / not started.
 | P-5 | | Implement Races, Magic, Matrix, Drones |
 | P-6 | | Semi-open Alpha Testing |
 | P-7 | | TBD: Vehicles, Astral Projection and Plane, Others |
-| P-8 | | Open BETA | 
+| P-8 | | Open BETA |
 
 ## Rights and provenance
 
