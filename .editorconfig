@@ -32,9 +32,10 @@ indent_size = 4
 [*.{json,jsonc,yml,yaml}]
 indent_size = 2
 
+# Keep trailing spaces: a trailing double-space is a Markdown hard line break.
 [*.md]
 indent_size = 2
-trim_trailing_whitespace = false  # trailing double-space is a Markdown line break
+trim_trailing_whitespace = false
 
 # Keep generated/template files byte-for-byte
 [.gitignore]
