@@ -1,6 +1,6 @@
-# Contributing to ShadowRunnerNights
+# Contributing to ShadowrunnerNights
 
-Thank you for your interest in contributing. ShadowRunnerNights is currently a
+Thank you for your interest in contributing. ShadowrunnerNights is currently a
 design and engine-experimentation project; it does not yet contain a playable
 module.
 

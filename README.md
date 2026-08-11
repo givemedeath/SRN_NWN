@@ -1,6 +1,6 @@
-# ShadowRunnerNights
+# ShadowrunnerNights
 
-ShadowRunnerNights is a source-available, non-commercial tactical RPG
+ShadowrunnerNights is a source-available, non-commercial tactical RPG
 module project for Neverwinter Nights: Enhanced Edition.
 
 It explores cyberpunk-fantasy themed RP and lethal, tactical combat designed for both

@@ -2,7 +2,7 @@
 
 ## Supported version
 
-ShadowRunnerNights is currently in design and engine experimentation; there is
+ShadowrunnerNights is currently in design and engine experimentation; there is
 no playable release. The current `main` branch is the supported version for
 security reports concerning repository materials, build or packaging tooling,
 and GitHub automation.

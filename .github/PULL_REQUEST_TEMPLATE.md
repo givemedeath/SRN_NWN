@@ -1,5 +1,5 @@
 <!--
-Thanks for contributing to ShadowRunnerNights.
+Thanks for contributing to ShadowrunnerNights.
 Please read CONTRIBUTING.md before opening a pull request.
 For substantial changes, open an Issue to discuss scope first.
 -->
