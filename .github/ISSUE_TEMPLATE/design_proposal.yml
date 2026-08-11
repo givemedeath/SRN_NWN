@@ -1,0 +1,37 @@
+name: Design proposal
+description: Propose a design decision, experiment, or implementation direction.
+labels: ["design", "proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for substantial proposals. Please describe the problem,
+        project fit, and expected scope (see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md)).
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / motivation
+      description: What problem does this solve, and why does it fit the project direction?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+      description: The design or experiment you propose, and alternatives considered.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and measurable outcome
+      description: What is in/out of scope, and how would success be observed or measured?
+    validations:
+      required: false
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Project constraints
+      options:
+        - label: This preserves deterministic rules logic independent of engine objects, persistence, clocks, configuration, and production randomness.
+        - label: This introduces no third-party rulebook text, proprietary assets, or quarantined material.

@@ -1,0 +1,44 @@
+name: Bug report
+description: Report a defect in repository materials, build/packaging tooling, or automation.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for filing a report. This project is in design and engine
+        experimentation and does not yet contain a playable module, so reports
+        currently concern documentation, tooling, or automation.
+
+        Do **not** report security vulnerabilities here — follow
+        [SECURITY.md](../blob/main/SECURITY.md).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the issue and its impact.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Minimal steps, commands, or a proof of concept.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: false
+  - type: input
+    id: affected
+    attributes:
+      label: Affected files, commit, or environment
+      placeholder: "e.g. README.md, commit 7230768, Windows 11 / .NET 8"
+    validations:
+      required: false
