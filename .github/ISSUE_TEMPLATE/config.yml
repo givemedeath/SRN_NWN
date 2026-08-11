@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/givemedeath/SRN_NWN/security/advisories/new
+    about: Do not open a public issue. Report vulnerabilities privately per SECURITY.md.
+  - name: Question or open-ended discussion
+    url: https://github.com/givemedeath/SRN_NWN/issues
+    about: For substantial proposals, please describe the problem, project fit, and scope.

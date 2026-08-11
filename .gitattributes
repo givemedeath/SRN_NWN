@@ -1,0 +1,32 @@
+# Normalize line endings so they don't depend on each contributor's
+# core.autocrlf setting. Mirrors .editorconfig.
+
+# Default: treat as text, store with LF in the repo.
+* text=auto eol=lf
+
+# Windows/.NET project files are conventionally CRLF.
+*.sln           text eol=crlf
+*.csproj        text eol=crlf
+*.vbproj        text eol=crlf
+*.vcxproj       text eol=crlf
+*.vcxproj.filters text eol=crlf
+*.props         text eol=crlf
+*.targets       text eol=crlf
+
+# Source and data kept as LF.
+*.cs            text eol=lf
+*.nss           text eol=lf
+*.json          text eol=lf
+*.yml           text eol=lf
+*.yaml          text eol=lf
+*.md            text eol=lf
+
+# Neverwinter Nights binary resources (usually build artifacts, ignored,
+# but mark as binary so Git never mangles them if one is ever committed).
+*.ncs           binary
+*.mod           binary
+*.hak           binary
+*.erf           binary
+*.nwm           binary
+*.tlk           binary
+*.bmu           binary

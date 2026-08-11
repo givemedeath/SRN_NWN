@@ -1,0 +1,41 @@
+# EditorConfig — https://editorconfig.org
+# Top-most EditorConfig file for ShadowRunnerNights.
+root = true
+
+# Defaults for all files
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+# Windows/.NET solution and project files are conventionally CRLF
+[*.{sln,csproj,vbproj,vcxproj,vcxproj.filters,props,targets}]
+end_of_line = crlf
+
+# C# source
+[*.cs]
+indent_size = 4
+dotnet_sort_system_directives_first = true
+dotnet_style_qualification_for_field = false:suggestion
+dotnet_style_qualification_for_property = false:suggestion
+csharp_new_line_before_open_brace = all
+csharp_prefer_braces = true:suggestion
+
+# NWScript
+[*.nss]
+indent_size = 4
+
+# Data / config / docs
+[*.{json,jsonc,yml,yaml}]
+indent_size = 2
+
+[*.md]
+indent_size = 2
+trim_trailing_whitespace = false  # trailing double-space is a Markdown line break
+
+# Keep generated/template files byte-for-byte
+[.gitignore]
+insert_final_newline = false

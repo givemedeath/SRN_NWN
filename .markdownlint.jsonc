@@ -1,0 +1,10 @@
+{
+  // markdownlint configuration — https://github.com/DavidAnson/markdownlint
+  "default": true,
+  // Prose is hard-wrapped by hand in this repo; don't enforce a line length.
+  "MD013": false,
+  // Allow inline HTML (used in issue/PR templates and comments).
+  "MD033": false,
+  // First line need not be a top-level heading (templates start with comments).
+  "MD041": false
+}
