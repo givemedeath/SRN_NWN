@@ -14,7 +14,7 @@ facilitator-led events and small-party play.
 Status legend: **Complete** · **Ongoing** · blank = planned / not started.
 
 | Phase | Status | Outcome |
-|---|---|---|
+| --- | --- | --- |
 | P-0A | Complete | Resolve no-code decisions and define bounded, measurable experiments |
 | P-0B | Ongoing | Prove reproducible bootstrap, native compatibility, resolver integration, cadence, cover, explosives, and the NUI window foundation |
 | P-1 | | Implement Human Mundane reference schema |
