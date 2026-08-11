@@ -25,7 +25,7 @@ By submitting this pull request I confirm that:
       repositories.
 - [ ] Any added dependency or asset has its source and license identified below.
 - [ ] I agree to provide this contribution under the repository's
-      [PolyForm Noncommercial License 1.0.0](../blob/main/LICENSE).
+      [PolyForm Noncommercial License 1.0.0](https://github.com/givemedeath/SRN_NWN/blob/main/LICENSE).
 
 ## Verification
 
